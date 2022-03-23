@@ -1,5 +1,5 @@
 
-# OS Lab manual's Programs
+# OS na programs
 
 
 ![My Skills](https://skillicons.dev/icons?i=bash)
