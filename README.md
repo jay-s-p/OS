@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-=======
-# OS na programs...
-![My Skills](https://skillicons.dev/icons?i=linux,bash)
->>>>>>> 8b83fed2cf99e26589d130976a79328cdea0bacc
 
 # OS Lab manual's Programs
 
@@ -15,10 +10,6 @@ Note :-
 
 #
 #### _if you find any errors in code, you can contact me..._
-<<<<<<< HEAD
 
 [![Contact](https://img.shields.io/badge/WA-97234%2030561-lightgrey?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=919723430561&text=Hi)
 
-=======
-[![Contact](https://img.shields.io/badge/WA-97234%2030561-lightgrey?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=919723430561&text=Hi)
->>>>>>> 8b83fed2cf99e26589d130976a79328cdea0bacc
