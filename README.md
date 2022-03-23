@@ -1,5 +1,5 @@
 # OS na programs...
-![My Skills](https://skillicons.dev/icons?i=bash)
+![My Skills](https://skillicons.dev/icons?i=linux,bash)
 
 Note :- included only 2 to 15 programs
 #
