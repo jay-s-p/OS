@@ -8,9 +8,10 @@ read b
 echo "Enter c : "
 read c
 if [ $a -gt $b -a $a -gt $c ]; then
-    echo "a is max"
+    max="$a"
 elif [ $b -gt $a -a $b -gt $c ]; then
-    echo "b is max"
+    max="$b"
 else
-    echo "c is max"
+    max="$c"
 fi
+echo -e "\n\n$max is max"
